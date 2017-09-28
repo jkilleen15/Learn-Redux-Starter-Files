@@ -1,3 +1,5 @@
+NOTE: Jessica completed project files in learn-redux folder
+
 # Learn Redux Starter files
 
 This repo includes the `learn-redux` folder which is where you will build your application as well as a number of partially finished `client` folder contents that correspond with the **start** of each video. These stepped folders should be used to reference or restore your application if things aren't working 100%.
@@ -9,7 +11,7 @@ There are only folders for videos which have significant changes.
 Fork or download this repo and run `npm install` in the `learn-redux` folder with the `package.json` file.
 
 
-## Pull Requests 
+## Pull Requests
 
 Pull requests that fix dependencies between the videos and this repo are welcome as long as they correspond with the code written in the videos.
 
@@ -29,10 +31,8 @@ Pull requests that fix dependencies between the videos and this repo are welcome
 
 ### Q: How do I download these videos?
 
-**A:** I made a video for [exactly this](https://www.youtube.com/watch?v=-eUd2k5M1B0). 
+**A:** I made a video for [exactly this](https://www.youtube.com/watch?v=-eUd2k5M1B0).
 
 ### Q: What theme and font are you using?
 
 **A:** Cobalt2 and Operator Mono. I wrote a bit of info here → <http://wesbos.com/uses>
-
-
